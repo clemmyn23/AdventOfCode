@@ -1,1 +1,1 @@
-type Demand = 900000;
+export type Demand = 900000;

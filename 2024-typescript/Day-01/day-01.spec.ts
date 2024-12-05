@@ -1,4 +1,5 @@
 import type { Expect, Equal } from "type-testing";
+import type { Demand } from "./day-01";
 
 /** `Demand` corresponds to the type you supply/modify */
 type t0_actual = Demand; // =>

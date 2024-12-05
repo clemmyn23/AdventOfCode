@@ -1,1 +1,1 @@
-type Demand = number;
+export type Demand = number;

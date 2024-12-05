@@ -5,12 +5,12 @@
   "repository": "https://github.com/clemmyn23/AdventOfCode",
   "author": "Clement Ng",
   "license": "ISC",
+  "scripts": {
+    "test": "tsc --noEmit"
+  },
   "dependencies": {
     "type-testing": "^0.2.0",
     "typescript": "^5.7.2"
-  },
-  "scripts": {
-    "test": "tsc --noEmit"
   },
   "devDependencies": {
     "prettier": "^3.4.2"

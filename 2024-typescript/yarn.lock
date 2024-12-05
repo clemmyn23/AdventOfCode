@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+prettier@^3.4.2:
+  version "3.4.2"
+  resolved "https://nexus.dev.engr.cm/nexus/repository/npm-all/prettier/-/prettier-3.4.2.tgz#a5ce1fb522a588bf2b78ca44c6e6fe5aa5a2b13f"
+  integrity sha512-e9MewbtFo+Fevyuxn/4rrcDAaq0IYxPGLvObpQjiZBMAzB9IGmzlnG9RZy3FFas+eBMu2vA0CszMeduow5dIuQ==
+
 type-testing@^0.2.0:
   version "0.2.0"
   resolved "https://nexus.dev.engr.cm/nexus/repository/npm-all/type-testing/-/type-testing-0.2.0.tgz#d9e0d3f322be9a23ce02abe3c55243b5546c9ca9"

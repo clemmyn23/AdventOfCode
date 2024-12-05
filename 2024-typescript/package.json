@@ -11,5 +11,8 @@
   },
   "scripts": {
     "test": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
   }
 }
